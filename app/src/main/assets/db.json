@@ -1,0 +1,39 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Task 1",
+        "description": "Task 1 not completed",
+        "isCompleted": false,
+        "createdAt": 1711526400000
+      },
+      {
+        "id": 2,
+        "title": "Task 2",
+        "description": "Task 2 completed",
+        "isCompleted": true,
+        "createdAt": 1711440000000
+      },
+      {
+        "id": 3,
+        "title": "Study Kotlin Coroutines",
+        "description": "Review flow, channels, and state management",
+        "isCompleted": false,
+        "createdAt": 1711353600000
+      },
+      {
+        "id": 4,
+        "title": "Prepare for Meeting",
+        "description": "Create presentation slides and gather metrics",
+        "isCompleted": false,
+        "createdAt": 1711267200000
+      },
+      {
+        "id": 5,
+        "title": "Exercise",
+        "description": "30 minutes of cardio and strength training",
+        "isCompleted": true,
+        "createdAt": 1711180800000
+      }
+    ]
+  }
