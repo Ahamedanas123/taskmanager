@@ -4,15 +4,15 @@ This is the submission for **PDE-1 Interview Assessment**. The app is a task man
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🧠 MVVM with Jetpack Compose
-- 🗂️ Task List and CRUD operations
-- 🔌 REST API integration with Retrofit
-- 🧰 Local storage with Room Database
-- 📊 Firebase Analytics event tracking
-- 💥 Firebase Crashlytics integration
-- 🎨 Material UI with Compose
+-  MVVM with Jetpack Compose
+-  Task List and CRUD operations
+-  REST API integration with Retrofit
+-  Local storage with Room Database
+-  Firebase Analytics event tracking
+-  Firebase Crashlytics integration
+-  Material UI with Compose
 
 ---
 ---
